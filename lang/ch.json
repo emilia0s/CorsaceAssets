@@ -5,16 +5,16 @@
             "mca2018": "MCA 2018",
             "days": "天",
             "nav": {
-                "standard": "std",
+                "standard": "主模式",
                 "taiko": "太鼓",
                 "fruits": "接水果",
                 "mania": "下落式",
-                "storyboard": ""
+                "storyboard": "故事板"
             }
         },
         "index": {
-            "homeTitle": "",
-            "home": ""
+            "homeTitle": "主页",
+            "home": "AYIM 2018"
         }
     }
 }
