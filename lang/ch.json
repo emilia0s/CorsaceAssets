@@ -3,7 +3,7 @@
     "ayim": {
         "layout": {
             "mca2018": "MCA 2018",
-            "days": "天",
+            "days": "天至投票截止日",
             "nav": {
                 "standard": "主模式",
                 "taiko": "太鼓",
@@ -13,7 +13,7 @@
             }
         },
         "index": {
-            "homeTitle": "主页",
+            "homeTitle": "简介",
             "home": "AYIM 2018"
         }
     }
