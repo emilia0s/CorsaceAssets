@@ -1,9 +1,9 @@
 {
-    "flag": "国旗",
+    "flag": "https://osu.ppy.sh/images/flags/CN.png",
     "ayim": {
         "layout": {
-            "mca2018": "",
-            "days": "",
+            "mca2018": "MCA 2018",
+            "days": "天",
             "nav": {
                 "standard": "std",
                 "taiko": "太鼓",
