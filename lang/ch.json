@@ -1,14 +1,14 @@
 {
-    "flag": "",
+    "flag": "国旗",
     "ayim": {
         "layout": {
             "mca2018": "",
             "days": "",
             "nav": {
-                "standard": "",
-                "taiko": "",
-                "fruits": "",
-                "mania": "",
+                "standard": "std",
+                "taiko": "太鼓",
+                "fruits": "接水果",
+                "mania": "下落式",
                 "storyboard": ""
             }
         },
